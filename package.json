@@ -1,7 +1,15 @@
 {
-  "name": "usds",
+"name": "usds",
   "version": "0.1.0",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GSA-TTS/usds.git"
+  },
+  "homepage": "https://gsa-tts.github.io/usds/",
+  "bugs": {
+    "url": "https://github.com/GSA-TTS/usds/issues"
+  },
   "type": "module",
   "main": "./dist/usds.cjs",
   "module": "./dist/usds.js",
