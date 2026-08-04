@@ -26,11 +26,11 @@ USDS is a React + TypeScript design system built for dense, operational governme
 The package is not yet published to npm. Install from Git:
 
 ```bash
-npm install github:acgsa/usds
+npm install github:GSA-TTS/usds
 # or
-yarn add github:acgsa/usds
+yarn add github:GSA-TTS/usds
 # or
-pnpm add github:acgsa/usds
+pnpm add github:GSA-TTS/usds
 ```
 
 ---
