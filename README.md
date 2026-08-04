@@ -2,7 +2,7 @@
 
 **A high-density design system for federal web applications.**
 
-[Live preview →](https://acgsa.github.io/usds/)
+[Live preview →](https://gsa-tts.github.io/usds/))
 
 USDS is a React + TypeScript design system built for dense, operational government interfaces. It includes accessible components, semantic design tokens (with light/dark modes), and patterns optimized for staff tools, dashboards, and permitting systems.
 
